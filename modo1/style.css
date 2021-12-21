@@ -1,0 +1,41 @@
+ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+header {
+    background-color: #182934;
+}
+
+header div {
+    width: 70%;
+    margin: 0 auto;
+}
+
+header div img {
+    width: 40px;
+}
+
+/* main */
+main{
+    padding: 100px;
+    background-color: #1c313f;
+}
+
+.dischiContainer{
+    width: 65%;
+    margin: 0 auto;
+}
+
+.cardDischi{
+    margin-bottom: 60px;
+    width: 300px;
+    text-align: center;
+    background-color: #000000;
+    color: white;
+}
+
+.cardDischi img{
+    width: 170px;
+}
